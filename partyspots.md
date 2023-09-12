@@ -16,8 +16,13 @@ O objetivo principal desta plataforma é facilitar as buscas e criações de eve
 -------------------
 📲 *PMI II*
 
+<<<<<<< HEAD
+⌨️ _*url Protótipo (Figma):https://www.figma.com/file/xIIq4h7bl8YU2SlyvdhTUq/PROTOTIPO-PARTYSPOTS?type=design&node-id=0-1&mode=design
+📝 _*url Modelagem Sistema:https://drive.google.com/file/d/11SXId8bKLl_KPBGxjl71rFnErXHFC0jF/view?usp=drive_link
+=======
 ⌨️ _*url Protótipo (Figma):*_
 📝 _*url Modelagem Sistema:*_
+>>>>>>> dc9671e5fbb98aa1431895451c5273ceda3bba3c
 -------------------
 💻 *PMI III*
 
